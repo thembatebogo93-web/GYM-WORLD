@@ -1,0 +1,30 @@
+GYM-WORLD
+GYM-WORLD is a South African fitness platform where creators upload workout videos and users subscribe to access fitness programs.## Features
+
+Features
+Creator profiles with subscription pricing  
+Video upload and streaming  
+Monthly subscription system in South African Rands (ZAR)  
+User authentication and dashboard  
+Glassmorphic design with navy and metallic blue theme  
+
+Tech Stack
+Frontend: HTML, CSS, JavaScript  
+Backend: Node.js with Express  
+Database: SQLite  
+Authentication: JWT  
+Payments: PayFast (South Africa)  
+
+Status
+Live demo available. Backend running on port 5000. Frontend serving on port 3000.
+
+Folder Structure
+Backend – server.js, database, API routes  
+Frontend – HTML pages, CSS styles, client-side JavaScript  
+
+Setup
+Backend: cd Backend, npm install, node server.js  
+Frontend: npx serve . , open http://localhost:3000  
+
+License
+All rights reserved. Fitness World SA.
